@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "question": "Qual é a fórmula da Primeira Lei da Termodinâmica?",
+            "choices": ["Q = T + ∆U","∆U = Q - T","T = Q - ∆U"],
+            "answer": "Q = T + ∆U"
+        },
+        {
+            "question": "O que é a Entropia?",
+            "choices": ["é a linha do tempo de um sistema.","é o grau de desordem de um sistema.","é a velocidade de um sistema."],
+            "answer": "é o grau de desordem de um sistema."
+        },
+        {
+            "question": "A fórmula da Eficiência de uma máquina térmica é:",
+            "choices": ["E = Qf / |T|","E = Qf * T","E = T - Qf"],
+            "answer": "E = Qf / |T|"
+        },
+        {
+            "question": "Em uma transformação adibática a quantidade de calor é:",
+            "choices": ["Q > 0","Q < 0","Q = 0"],
+            "answer": "Q = 0"
+        }
+    ]
+}
